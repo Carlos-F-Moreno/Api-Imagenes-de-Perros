@@ -12,4 +12,7 @@ btnMotrarPerro.addEventListener("click", function(){
     });
     xhr.open("GET", "https://dog.ceo/api/breeds/image/random");
     xhr.send();
+
 });
+
+//https://dog.ceo/api/breed/Airedale/images/random
